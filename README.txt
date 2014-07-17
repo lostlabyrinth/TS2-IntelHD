@@ -26,6 +26,10 @@ If you're using the Ultimate Collection, unzip this to `C:\Program Files (x86)\O
 
 The Sims 2 uses MSAA to achieve this and it is very performance heavy. It fixes the weird texture flickering glitch when it's switched on but it comes at a performance cost. This is the unfortunate reality of APUs and MSAA. Pick your poison.
 
+* What is backup.bat for?
+
+This allows you to seamlessly backup your old/current Graphics Rules.sgr file. The backup will be placed in the same directory as where the new file should go. Note that this is only configured for The Sims 2 Ultimate Collection.
+
 Please backup your original Graphics Rules.sgr before installing this.
 =======================================================================
 
