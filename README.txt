@@ -3,7 +3,8 @@ TS2-IntelHD
 
 A modded graphics ruleset for The Sims 2 allowing the Intel HD Graphics family to take full advantage of the game's visual offerings. This enables shaders, improved terrain quality, improved water effects and antialiasing support.
 
-# FAQs
+FAQs
+===========
 
 * Why have you included a complex folder structure?
 
@@ -25,6 +26,7 @@ If you're using the Ultimate Collection, unzip this to `C:\Program Files (x86)\O
 
 The Sims 2 uses MSAA to achieve this and it is very performance heavy. It fixes the weird texture flickering glitch when it's switched on but it comes at a performance cost. This is the unfortunate reality of APUs and MSAA. Pick your poison.
 
-# Please backup your original Graphics Rules.sgr before installing this.
+Please backup your original Graphics Rules.sgr before installing this.
+=======================================================================
 
 I will not be held responsible for any damage caused to your game.
