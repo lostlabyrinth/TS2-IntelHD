@@ -24,3 +24,7 @@ If you're using the Ultimate Collection, unzip this to `C:\Program Files (x86)\O
 * Why does my frame rate drop when I turn on Smooth Edges?
 
 The Sims 2 uses MSAA to achieve this and it is very performance heavy. It fixes the weird texture flickering glitch when it's switched on but it comes at a performance cost. This is the unfortunate reality of APUs and MSAA. Pick your poison.
+
+# Please backup your original Graphics Rules.sgr before installing this.
+
+I will not be held responsible for any damage caused to your game.
