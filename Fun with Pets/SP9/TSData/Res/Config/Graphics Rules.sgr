@@ -1,6 +1,5 @@
-#############################################################################
-#
-# Logging settings
+
+gging settings
 #
 
 set logGroup           "ConfigurationManager"
@@ -780,26 +779,26 @@ end
 
 option ScreenModeResolution
    setting $Low
-      uintProp maxResWidth      800
-      uintProp maxResHeight     600
+      uintProp maxResWidth      1920
+      uintProp maxResHeight     1080
       uintProp defaultResWidth  800
       uintProp defaultResHeight 600
 
    setting $MediumButDefaultLow
-      uintProp maxResWidth      1280
-      uintProp maxResHeight     1024
+      uintProp maxResWidth      1920
+      uintProp maxResHeight     1080
       uintProp defaultResWidth  800
       uintProp defaultResHeight 600
 
    setting $Medium
-      uintProp maxResWidth      1280
-      uintProp maxResHeight     1024
+      uintProp maxResWidth      1920
+      uintProp maxResHeight     1080
       uintProp defaultResWidth  1024
       uintProp defaultResHeight 768
 
    setting $High
-      uintProp maxResWidth      1600
-      uintProp maxResHeight     1200
+      uintProp maxResWidth      1920
+      uintProp maxResHeight     1080
       uintProp defaultResWidth  1024
       uintProp defaultResHeight 768
 end
@@ -1052,4 +1051,3 @@ intProp configParserErrorCode 0
 uintProp hwMajorPSVersion $maxPixelProgramVersionMajor
 
 log $logGroup $logLevelInfo "Finished Config File"
-
