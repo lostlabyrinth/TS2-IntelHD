@@ -1,5 +1,7 @@
 
-gging settings
+#############################################################################
+#
+# Logging settings
 #
 
 set logGroup           "ConfigurationManager"
